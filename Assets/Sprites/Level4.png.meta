@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: 085a6d613f665924c82554fb029f61bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: descent-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 972
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa137d943a91f30428cafb5a059d6776
+      internalID: 1781246995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 972
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07301e14caecb8c4f90befb90e57e4ac
+      internalID: 2110755895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 971
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4bd6dec3af30d40b810b348b6cddb1
+      internalID: -483760517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 972
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619949e987a5971499a232c9b09b46f3
+      internalID: 698789312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 954
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5bd9a38ad503649a9824844119c9f5
+      internalID: -1339882386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 988
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffe2a62e315d1408d57d2ce03af602
+      internalID: -2026240506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 970
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c5002a6e8ef8b43b50e23e74a6d637
+      internalID: 908360814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 302
+        width: 584
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6deafa1c321e648bb8a4300386755e
+      internalID: 827262193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 956
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828e1b13e30d6764ca65d7b2593f6781
+      internalID: -1330436737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 920
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2fb444178bc594daaa89a35e017bf2
+      internalID: 110723681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 920
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a127e4b3cc845642b4633a3bad32587
+      internalID: -895596518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 957
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0ab698e4bae445996a9f513578901
+      internalID: 405881645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 942
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7738aa67de263014cafb20c455ec14d4
+      internalID: 1840512975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 947
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5e10a38dddc34e86d4c67965b4de1
+      internalID: 1834621118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 928
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddcb86688871ed49bd5a18bdfbe9e09
+      internalID: -1754342159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 917
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae4abfead8b7e44b9b7d1d76585800
+      internalID: 1499902574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 680
+        width: 80
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428bddd9303a434438d11a290bc51645
+      internalID: -1962035336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 902
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a1793fde5219246abc8a39e46743d4
+      internalID: 1622757602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 827
+        width: 115
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7db062fa8982f41ad49f36578002f3
+      internalID: 1157577612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 849
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb409d725c64d194d84a45f7d1138bba
+      internalID: 1854573983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 849
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3674e68ceee01d428575bca5d4464bd
+      internalID: 1191547157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 715
+        width: 18
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583232a82f86b9740b689c512d023920
+      internalID: 709928105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 831
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ec8784e2203e04596d827068ff3016
+      internalID: -1350081919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 826
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bbf947e80dbed46bbd5014a08a574c
+      internalID: 2046966144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 828
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3c35ee56c8334caf9f8a494f5d849
+      internalID: 1125458337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 710
+        width: 149
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ad425dac44814f84ef9738a0b24e4
+      internalID: -1264222818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 804
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3dd0edf4f29924d85af73f36d53c0d
+      internalID: -1311078837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 728
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c3eed773c8b84fb22063f8fed86ee
+      internalID: 1024477496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 728
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5718fb81e5e13049843979fbedf7753
+      internalID: -141912671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 695
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc241a5b6d2c6499a1f55d9c35cafe
+      internalID: -183409374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 699
+        width: 93
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbd69720483e74696082e8d5fb71ba
+      internalID: -1819070493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499692d69995ba246b04e4a71bcf01b4
+      internalID: 375860530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 596
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b5bb333ce00747bcef05f32ccae09
+      internalID: -1561530535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 675
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a70c623ab52364ea3d7ce8c3e7f1af
+      internalID: -516280651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 669
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4e859e8a3490488f08e22a1de9d1d
+      internalID: 1928951992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 642
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bcc52673bd06a46813da5f618a3ef6
+      internalID: -1939154628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 602
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637ff79e6e7b0445b61fe067fe71a6f
+      internalID: -560027083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 567
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093ab82fdd568f408d6f1e459c11a2d
+      internalID: -396062410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 563
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe017866a9309f45b8101d4367cd8fd
+      internalID: 1160591159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 574
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee1e8f278cdc745ba6092e4803fdbe
+      internalID: 125063010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 570
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b34c7a4a12f8c43a828fa668323d20
+      internalID: -951724917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 570
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ad037b424280a4295a67ca96408d59
+      internalID: -773294382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 570
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed90f32ad355aa428b5b4b8d073c612
+      internalID: 559071557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 569
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905a11ad2b89a64da62d798999471ae
+      internalID: 2143421095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 557
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4277ed9afd965134a888c6df9680ccde
+      internalID: -1409876440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 526
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e053247bf6c14eb9ab7b1ade80eef
+      internalID: 896089604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 526
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04717dda008b6164986374d5c08deade
+      internalID: -2138195271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 525
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3313fc35a384548b12546a4425fd2f
+      internalID: 1821048991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 527
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ea904827250d44b671575f36bc6a2
+      internalID: 1975170781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 500
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a01d63d5f54843885b7b6c0367cd8
+      internalID: -139826898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 445
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888bfde9776ff8140a99fc0cf340a893
+      internalID: -1980544472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 490
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64e8d061a807b64f909d9653218a057
+      internalID: -2058963013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 490
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b5f2bd62e74e4e92659a160b409d4
+      internalID: -470283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 489
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432ae0b73a17e414a854a9fe5b66a771
+      internalID: 477593384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 251
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f36668b23da2847abdc684dae97c3c
+      internalID: -1909676563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 452
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774e5cb642118b45988dc79d4f3a7f1
+      internalID: 655856537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 121
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ebb77bfabc3f947bee494939d5f319
+      internalID: 382466346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 333
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83464014f4071d946b2175e7d18d0ede
+      internalID: 184586596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 380
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a48cfc1a2b70b4ba1f86934dd9efb5
+      internalID: -902479585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 185
+        width: 34
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8111a475ad8134ba6bace0333aafb8
+      internalID: -1519614187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 184
+        width: 34
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb1e53d5d96a642a47f260c96f5e0a
+      internalID: -744700186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 179
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af35c2df4059e340992ee47838ea6ab
+      internalID: -1025143083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 94
+        width: 34
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd43d6ccafd0a4d8fee543f4192d61
+      internalID: 616968297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 221
+        width: 122
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3548aa38878a84d97daa0fb6fdc6ef
+      internalID: 1104215282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 125
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccc69f743c4d348abe76e459548a39
+      internalID: 1893649027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdd5badb98197439df86193b8c27f6
+      internalID: 194980992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 320
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37ee250e4b1384ba2d10b71a781b69
+      internalID: -885300890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5a0e095d86ea4e99cb7eaaf43d24d
+      internalID: 774690094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 93
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c40f16c75c703f429bb04bc254511ab
+      internalID: 115418522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2
+        width: 34
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696759777ad38fd45a8e370f4ba09a59
+      internalID: 1384658548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descent-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2
+        width: 33
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a64419d8760a4aab34501bb9e71b3
+      internalID: 638088452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      descent-spritesheet_0: 1781246995
+      descent-spritesheet_1: 2110755895
+      descent-spritesheet_10: -895596518
+      descent-spritesheet_11: 405881645
+      descent-spritesheet_12: 1840512975
+      descent-spritesheet_13: 1834621118
+      descent-spritesheet_14: -1754342159
+      descent-spritesheet_15: 1499902574
+      descent-spritesheet_16: -1962035336
+      descent-spritesheet_17: 1622757602
+      descent-spritesheet_18: 1157577612
+      descent-spritesheet_19: 1854573983
+      descent-spritesheet_2: -483760517
+      descent-spritesheet_20: 1191547157
+      descent-spritesheet_21: 709928105
+      descent-spritesheet_22: -1350081919
+      descent-spritesheet_23: 2046966144
+      descent-spritesheet_24: 1125458337
+      descent-spritesheet_25: -1264222818
+      descent-spritesheet_26: -1311078837
+      descent-spritesheet_27: 1024477496
+      descent-spritesheet_28: -141912671
+      descent-spritesheet_29: -183409374
+      descent-spritesheet_3: 698789312
+      descent-spritesheet_30: -1819070493
+      descent-spritesheet_31: 375860530
+      descent-spritesheet_32: -1561530535
+      descent-spritesheet_33: -516280651
+      descent-spritesheet_34: 1928951992
+      descent-spritesheet_35: -1939154628
+      descent-spritesheet_36: -560027083
+      descent-spritesheet_37: -396062410
+      descent-spritesheet_38: 1160591159
+      descent-spritesheet_39: 125063010
+      descent-spritesheet_4: -1339882386
+      descent-spritesheet_40: -951724917
+      descent-spritesheet_41: -773294382
+      descent-spritesheet_42: 559071557
+      descent-spritesheet_43: 2143421095
+      descent-spritesheet_44: -1409876440
+      descent-spritesheet_45: 896089604
+      descent-spritesheet_46: -2138195271
+      descent-spritesheet_47: 1821048991
+      descent-spritesheet_48: 1975170781
+      descent-spritesheet_49: -139826898
+      descent-spritesheet_5: -2026240506
+      descent-spritesheet_50: -1980544472
+      descent-spritesheet_51: -2058963013
+      descent-spritesheet_52: -470283912
+      descent-spritesheet_53: 477593384
+      descent-spritesheet_54: -1909676563
+      descent-spritesheet_55: 655856537
+      descent-spritesheet_56: 382466346
+      descent-spritesheet_57: 184586596
+      descent-spritesheet_58: -902479585
+      descent-spritesheet_59: -1519614187
+      descent-spritesheet_6: 908360814
+      descent-spritesheet_60: -744700186
+      descent-spritesheet_61: -1025143083
+      descent-spritesheet_62: 616968297
+      descent-spritesheet_63: 1104215282
+      descent-spritesheet_64: 1893649027
+      descent-spritesheet_65: 194980992
+      descent-spritesheet_66: -885300890
+      descent-spritesheet_67: 774690094
+      descent-spritesheet_68: 115418522
+      descent-spritesheet_69: 1384658548
+      descent-spritesheet_7: 827262193
+      descent-spritesheet_70: 638088452
+      descent-spritesheet_8: -1330436737
+      descent-spritesheet_9: 110723681
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

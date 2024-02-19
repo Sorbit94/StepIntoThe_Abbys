@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 380476cb6e42ea341af13048f1a14207
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deosgracias_idle_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07534d3a7996fff43b8a973f6807ca6d
+      internalID: -707466834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8730d14d2e8449b4f0a7f1f9fc4ec
+      internalID: -1254873624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490fdbc62ba87b4ba791cc2981f95e8
+      internalID: -1412080893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394432d8b7320441876d96587abf617
+      internalID: -1416205782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7105edeec29a27f48813800a99d6b6dd
+      internalID: -1994007378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee4232ec7bb08e48bb25f2429d057a5
+      internalID: -484926635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 520
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53784482930f4eb42824950ea5b300d3
+      internalID: -215974216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 264
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c795ae9443168d41bfed16186ef5930
+      internalID: 324540323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 264
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fcc469472e174cab63390419adba0
+      internalID: -333726355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 264
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44700e5b7cc48a44971c5e5c4012809
+      internalID: -28413910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 264
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d55d86e98cc9f64b9a08079c7c1b37f
+      internalID: -656678638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 264
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aecd98a63cac2e43a34151ad1d8b962
+      internalID: 1618166239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 264
+        width: 94
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca2ab366aaa9d240a9849c3e25b7aa3
+      internalID: 333086559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 264
+        width: 94
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b313cebdcd9d247b729b123e063041
+      internalID: -412451017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a908805a0ed12b343b44f1fd5366db87
+      internalID: -1287463344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e234c6bd695246917e2566fc0b4e9
+      internalID: 906329428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_33
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 8
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384685b6089c5d942a92a821ed77a543
+      internalID: -396949285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 8
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb920ee9a9543a34f83d471b03bcaa5a
+      internalID: 1704373350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deosgracias_idle_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 8
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31db854c93a73d44481130f976f9c4e4
+      internalID: 935472813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Deosgracias_idle_0: 1887872050
+      Deosgracias_idle_1: -707466834
+      Deosgracias_idle_10: 1640004317
+      Deosgracias_idle_11: -484926635
+      Deosgracias_idle_12: -1225419990
+      Deosgracias_idle_13: -215974216
+      Deosgracias_idle_14: -984001903
+      Deosgracias_idle_15: 324540323
+      Deosgracias_idle_16: -1395321849
+      Deosgracias_idle_17: -333726355
+      Deosgracias_idle_18: -1752628214
+      Deosgracias_idle_19: -28413910
+      Deosgracias_idle_2: -2092761264
+      Deosgracias_idle_20: 774717260
+      Deosgracias_idle_21: -656678638
+      Deosgracias_idle_22: 1148650967
+      Deosgracias_idle_23: 1618166239
+      Deosgracias_idle_24: -520674111
+      Deosgracias_idle_25: 333086559
+      Deosgracias_idle_26: 1722360817
+      Deosgracias_idle_27: -412451017
+      Deosgracias_idle_28: -1027884574
+      Deosgracias_idle_29: -1287463344
+      Deosgracias_idle_3: -1254873624
+      Deosgracias_idle_30: -474685029
+      Deosgracias_idle_31: 906329428
+      Deosgracias_idle_32: -356405387
+      Deosgracias_idle_33: -396949285
+      Deosgracias_idle_34: -771704460
+      Deosgracias_idle_35: 1704373350
+      Deosgracias_idle_36: 602514547
+      Deosgracias_idle_37: 935472813
+      Deosgracias_idle_4: 809728200
+      Deosgracias_idle_5: -1412080893
+      Deosgracias_idle_6: -2118879160
+      Deosgracias_idle_7: -1416205782
+      Deosgracias_idle_8: -1302764364
+      Deosgracias_idle_9: -1994007378
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

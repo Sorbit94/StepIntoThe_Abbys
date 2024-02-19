@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 80016ca780bc83945b36c362a7d87380
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 539
+        width: 108
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ff8d0aab86374d9131a6f1187e346
+      internalID: -1043857450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 539
+        width: 108
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9876daaf3d2f122418a5160121dcc227
+      internalID: -1334165583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 540
+        width: 108
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0fa2d4be385804891e058a3c9032cf
+      internalID: -1779653207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 540
+        width: 108
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c5247edfca3a428718f50153c0f8a
+      internalID: -472815489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 540
+        width: 108
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582fac27f2d30747b60df307a8071bd
+      internalID: 146556573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 412
+        width: 108
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47391d676c89d64286b37456ccf08eb
+      internalID: -1588379944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 412
+        width: 108
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3546ce3e9d1ca43b7e63aa68b217be
+      internalID: -1487426020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 412
+        width: 108
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ff7a698e4ad445abad46e9afc6dab
+      internalID: -1081531392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 412
+        width: 108
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534b199dd0fa8541ac8d7f8d19976e9
+      internalID: 794332282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 412
+        width: 99
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23005bacd4be9d44e9357cf84782838a
+      internalID: 2133257397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 284
+        width: 108
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8450efe728f3d74f93ab0456b7103c7
+      internalID: 967528016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 284
+        width: 108
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f200fe4c0e5c44e8cd13aa0b06dacf
+      internalID: 1234680393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 284
+        width: 108
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686c3f4aed1a164e9685a8ba6bb2daa
+      internalID: -762693570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 284
+        width: 108
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68443a0239445c24d9cf194bf1b11266
+      internalID: -907005365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 284
+        width: 94
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbcda092c10449478eb5a7e339613ff
+      internalID: -404247615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 108
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff492acd2d07640b271cb732424072
+      internalID: 164193476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 156
+        width: 108
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e68342825d48946838219f20a22fbd
+      internalID: -1562300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 156
+        width: 108
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6775b03e554e646886b753388b5ab8
+      internalID: -1658912450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 156
+        width: 108
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d52bdbc1ad92d54f93c21fc8f977592
+      internalID: 629743031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 156
+        width: 92
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bbf1debbac12e48bc6b5464eceb7f4
+      internalID: 768417092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 108
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdafdeced2f879e418d41a67c2d5185b
+      internalID: 1312363159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 29
+        width: 108
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201bc8cd9e9cba42bd0b79f33dee48c
+      internalID: -132455524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 108
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e59c521d31b7a4499e244b4cf494b7
+      internalID: -864120654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mudcrawler_death 1_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 28
+        width: 108
+        height: 1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36186ac63759a4e829c8f608d8fcaf
+      internalID: 1764232227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mudcrawler_death 1_0: -1043857450
+      Mudcrawler_death 1_1: -1334165583
+      Mudcrawler_death 1_10: 967528016
+      Mudcrawler_death 1_11: 1234680393
+      Mudcrawler_death 1_12: -762693570
+      Mudcrawler_death 1_13: -907005365
+      Mudcrawler_death 1_14: -404247615
+      Mudcrawler_death 1_15: 164193476
+      Mudcrawler_death 1_16: -1562300556
+      Mudcrawler_death 1_17: -1658912450
+      Mudcrawler_death 1_18: 629743031
+      Mudcrawler_death 1_19: 768417092
+      Mudcrawler_death 1_2: -1779653207
+      Mudcrawler_death 1_20: 1312363159
+      Mudcrawler_death 1_21: -132455524
+      Mudcrawler_death 1_22: -864120654
+      Mudcrawler_death 1_23: 1764232227
+      Mudcrawler_death 1_24: 1128426022
+      Mudcrawler_death 1_25: 270523130
+      Mudcrawler_death 1_26: 1599363114
+      Mudcrawler_death 1_27: 1807007864
+      Mudcrawler_death 1_28: -172872362
+      Mudcrawler_death 1_29: 761425458
+      Mudcrawler_death 1_3: -472815489
+      Mudcrawler_death 1_30: -747848590
+      Mudcrawler_death 1_31: 327443659
+      Mudcrawler_death 1_32: 1920616798
+      Mudcrawler_death 1_33: 2053758526
+      Mudcrawler_death 1_34: 933495062
+      Mudcrawler_death 1_35: -643835835
+      Mudcrawler_death 1_36: -1979628066
+      Mudcrawler_death 1_37: 1751218247
+      Mudcrawler_death 1_38: 2138170718
+      Mudcrawler_death 1_39: 1987850331
+      Mudcrawler_death 1_4: 146556573
+      Mudcrawler_death 1_40: 642415621
+      Mudcrawler_death 1_41: -244307435
+      Mudcrawler_death 1_42: -699862494
+      Mudcrawler_death 1_43: -1808065190
+      Mudcrawler_death 1_44: -929964191
+      Mudcrawler_death 1_45: 420210001
+      Mudcrawler_death 1_46: 376968060
+      Mudcrawler_death 1_47: 742010607
+      Mudcrawler_death 1_48: -1325989464
+      Mudcrawler_death 1_49: -410902476
+      Mudcrawler_death 1_5: -1588379944
+      Mudcrawler_death 1_50: 41783177
+      Mudcrawler_death 1_51: -1309646278
+      Mudcrawler_death 1_52: 1082111500
+      Mudcrawler_death 1_53: 38242901
+      Mudcrawler_death 1_54: -1096967343
+      Mudcrawler_death 1_55: 758248319
+      Mudcrawler_death 1_56: -109879531
+      Mudcrawler_death 1_57: 1835736415
+      Mudcrawler_death 1_58: -383757323
+      Mudcrawler_death 1_59: 2083534692
+      Mudcrawler_death 1_6: -1487426020
+      Mudcrawler_death 1_60: -1764992225
+      Mudcrawler_death 1_61: -100671053
+      Mudcrawler_death 1_62: 385341098
+      Mudcrawler_death 1_63: 330531879
+      Mudcrawler_death 1_64: -1959769295
+      Mudcrawler_death 1_7: -1081531392
+      Mudcrawler_death 1_8: 794332282
+      Mudcrawler_death 1_9: 2133257397
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
